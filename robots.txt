@@ -1,0 +1,14 @@
+# robots.txt for http://www.wpamedstaffing.com/
+User-Agent: *
+Disallow: /Contact-WPA-Thank-You.html
+Disallow: /thank-you.html
+Disallow: /captcha_code_file.php
+Disallow: /assets/
+Disallow: /captcha/
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /dist/
+Disallow: /imgs/
+Disallow: /js/
+Disallow: /scripts/
+Disallow: /wpamaildisabled/
